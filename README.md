@@ -1,7 +1,7 @@
 # homework_4
 This program is designed to deploy a timed quiz and with different answers and store a users highscores by their initials
 
-Deployed Application https://nolshark.github.io/Challenge_4/
+Deployed Application 
 
 Starting Screen
 ![image](https://user-images.githubusercontent.com/108495035/184224881-37f58c6a-241e-40b1-9449-a736ed254b8a.png)
